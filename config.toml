@@ -2,6 +2,10 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
+[module]
+  [[module.imports]]
+    path = "github.com/caressofsteel/hugo-story"
+    
 theme = "hugo-story"
 
 ## -----------------------------------------------
