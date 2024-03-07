@@ -1,5 +1,10 @@
 baseURL = 'https://thecrackingreeds.band/'
 languageCode = 'en-us'
 title = 'The Cracking Reeds'
-#theme = 'hugo-story'
+
+[module]
+[[module.imports]]
+    path = 'hugo-story'
+
+theme = 'hugo-story'
 hidedesignbyline = true
