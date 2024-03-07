@@ -1,0 +1,9 @@
+title: "Our music"
+content: |
+  Find more music and videos on our <a href="https://www.youtube.com/@TheCrackingReeds" target="_blank">YouTube channel</a>!
+style: "style1 content-align-center image-position-center onscroll-image-fade-in"
+videos:
+  # feature item loop
+  - id: GameLvadsVw
+  # feature item loop
+  - id: QkuFRI19Oo4

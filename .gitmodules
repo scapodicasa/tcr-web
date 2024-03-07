@@ -1,0 +1,9 @@
+[submodule "website/themes/tailbliss"]
+	path = website/themes/tailbliss
+	url = git@github.com:nusserstudios/tailbliss.git
+[submodule "website/themes/ananke"]
+	path = website/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "website/themes/hugo-scroll"]
+	path = website/themes/hugo-scroll
+	url = https://github.com/zjedi/hugo-scroll.git

@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style5 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "booking"
+title : "Book a show"
+content: |
+  Drop us a line to <a href=mailto:info@thecrackingreeds.band>info@thecrackingreeds.band</a>
+  <br/>or<br/>
+  give us a ring at <a href="tel:+393285607864">+39 3285607864</a>.
+button: 
+  label: "Get press kit"
+  link: "#"
+image: "images/booking.jpg"
