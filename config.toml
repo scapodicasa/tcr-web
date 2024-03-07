@@ -1,10 +1,6 @@
 ## -----------------------------------------------
 ## Basic Configuration
 ## -----------------------------------------------
-
-[module]
-  [[module.imports]]
-    path = "github.com/caressofsteel/hugo-story"
     
 theme = "hugo-story"
 
@@ -20,8 +16,8 @@ baseURL = "/"
 publishDir = "public"
 
 # Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
-#publishDir = "//centos/sites/hugodev/hugostory/"
+baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
+publishDir = "//centos/sites/hugodev/hugostory/"
 
 
 ## -----------------------------------------------

@@ -1,5 +1,5 @@
 baseURL = 'https://thecrackingreeds.band/'
 languageCode = 'en-us'
 title = 'The Cracking Reeds'
-theme = 'hugo-scroll'
+theme = 'hugo-story'
 hidedesignbyline = true
