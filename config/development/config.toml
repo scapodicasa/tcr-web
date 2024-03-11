@@ -42,6 +42,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   email = "info@thecrackingreeds.band"
   instagram = "https://www.instagram.com/thecrackingreeds.band/"
   youtube = "https://www.youtube.com/@TheCrackingReeds"
+  facebook = "https://www.facebook.com/thecrackingreeds.band"
   # linkedin = "https://linkedin.com"
   # telegram = "https://telegram.org"
 
