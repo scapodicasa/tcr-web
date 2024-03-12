@@ -34,5 +34,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 [Params]
 
 [Params.social]
+  email = "info@thecrackingreeds.band"
+  instagram = "https://www.instagram.com/thecrackingreeds.band/"
+  youtube = "https://www.youtube.com/@TheCrackingReeds"
+  facebook = "https://www.facebook.com/thecrackingreeds.band"
 
 [Params.asset]

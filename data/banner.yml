@@ -1,11 +1,13 @@
 ####################### Banner #########################
 style: "style5 orient-left content-align-center image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
-title : "The Cracking Reeds"
+title: "The Cracking Reeds"
 subtitle: |
   Irish music, delivered.
 # content : |
 #   Here we can put a short bio of the band, just two or three lines with a catchy copy style.
 button:
-  label : "Discover"
-  link : "#videos"
-image : "images/banner.jpg"
+  label: "Discover"
+  link: "#booking"
+image:
+  vertical: "images/banner-vert.jpg"
+  horizontal: "images/banner.jpg"
