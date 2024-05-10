@@ -855,7 +855,7 @@
 			top: 0;
 			left: 0;
 			border-radius: 0;
-			opacity: _misc(overlay-opacity);
+			// opacity: .65;
 
 			img {
 				@include vendor('object-fit', 'cover');
@@ -868,6 +868,17 @@
 				height: 100%;
 				border-radius: 0;
 			}
+
+			&:after {
+				content: '';
+					position: absolute;
+					top: 0;
+					right: 0;
+					bottom: 0;
+					left: 0;
+					background-image: linear-gradient(to bottom right,#000000,#000000);
+					opacity: .56;
+			  }
 		}
 
 		@include breakpoint('<=xlarge') {

@@ -1,6 +1,11 @@
 <!-- Banner -->
 <section class="banner {{ .style }}">
     <div class="content">
+        {{ with .logo }}
+        <picture>
+            <img src="{{.logo}}" />
+        </picture>
+        {{end}}
         {{ with .title }}
         <h1>{{ . }}</h1>
         {{ end }} {{ with .subtitle }}
@@ -12,7 +17,7 @@
             <li>
                 <a
                     href="{{ .link }}"
-                    class="button primary large wide smooth-scroll-middle"
+                    class="button alternate large wide smooth-scroll-middle"
                     >{{ .label }}</a
                 >
             </li>

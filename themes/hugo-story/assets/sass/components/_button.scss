@@ -107,6 +107,20 @@
 					background-color: darken(_palette($p, accent), 12);
 				}
 			}
+
+			&.alternate {
+				background-color: _palette($p, bg);
+				box-shadow: none;
+				color: _palette($p, fg) !important;
+
+				&:hover {
+					background-color: _palette($p, accent);
+				}
+
+				&:active {
+					background-color: darken(_palette($p, accent), 12);
+				}
+			}
 		}
 	}
 
