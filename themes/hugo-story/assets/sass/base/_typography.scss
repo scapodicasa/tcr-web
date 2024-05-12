@@ -36,7 +36,8 @@
 		font-family: _font(family);
 		font-size: 1rem;
 		font-weight: _font(weight);
-		line-height: 1.65;
+		letter-spacing: _font(kerning);
+		line-height: 1.65;	
 	}
 
 	a {
@@ -65,9 +66,10 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
+		font-family: 'ED Brigid';
 		font-weight: _font(weight);
 		line-height: 1.375;
-		letter-spacing: _font(kerning);
+		letter-spacing: _font(kerning-none);
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
 
 		a {
