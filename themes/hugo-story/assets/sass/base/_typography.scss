@@ -65,12 +65,8 @@
 		}
 	}
 
-	h1, h2, h3, h4, h5, h6 {
-		@font-face {
-			font-family: 'ED Brigid';
-			src: url('../../../static/webfonts/ED\ Brigid-Regular.woff') format('woff');
-		}
-
+	h1, h2, h3, h4, h5, h6 {		
+		font-family: 'ED Brigid';
 		font-weight: _font(weight);
 		line-height: 1.375;
 		letter-spacing: _font(kerning-none);
