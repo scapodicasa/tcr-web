@@ -1,9 +1,10 @@
 <style>
-    .videos-container {
+    .music-container {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
         gap: 2rem;
+        margin-top: 2rem;
     }
 </style>
 
@@ -15,8 +16,11 @@
         {{ end }} {{ with .content }}
         <p>{{ . | safeHTML }}</p>
         {{ end }}
-        <div class="videos-container">
+        <div class="music-container">
             {{ range .videos }} {{ partial "video" . }} {{ end }}
+        </div>
+        <div class="music-container">
+            {{ range .soundcloud }} {{ partial "soundcloud" . }} {{ end }}
         </div>
     </div>
 </section>
