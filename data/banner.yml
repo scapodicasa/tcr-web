@@ -7,7 +7,7 @@ style: "style5 orient-left content-align-center image-position-center fullscreen
 #   Here we can put a short bio of the band, just two or three lines with a catchy copy style.
 button:
   label: "Discover"
-  link: "#booking"
+  link: "#music"
 image:
   vertical: "images/banner-vert.jpg"
   horizontal: "images/banner.jpg"
