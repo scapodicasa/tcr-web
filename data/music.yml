@@ -5,5 +5,5 @@ content: |
 style: "style1 content-align-center image-position-center onscroll-image-fade-in"
 videos:
   - id: BrcwOBJ2MWE
-# soundcloud:
-#   - src: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/546143736&color=%23d7d5d4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
+soundcloud:
+  - src: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1823072142&color=%23d7d5d4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true

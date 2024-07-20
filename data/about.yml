@@ -1,0 +1,17 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-center image-position-center onscroll-image-fade-right"
+id: "about"
+title : "About"
+content: |
+  <p>
+  When musicians with diverse experiences and musical backgrounds meet and their passion for Irish music stands out, The Cracking Reeds is what you get. Born in 2023 in Turin, the band is made up of members coming from various musical realities, who have trained with some of the most important national and international artists and have live performance experience both in Italy and abroad.
+  </p>
+  
+  <p>
+  Each musician brings with them a wealth of influences and techniques, ranging from classical music to jazz, from rock to traditional music. Blending their knowledge together leads to the creation of a personal sound that respects the stylistic elements of Irish musical tradition, while maintaining a unique freshness and modernity.
+  </p>
+  
+  <p>
+  The repertoire ranges from well-known songs to least famous ones, enriched with typical tunes from the lively sessions in Irish pubs. This mix allows the audience to feel comfortable while discovering intriguing new melodies that will surely strike a chord with their emotions.
+  </p>
+# image: "images/band.jpg"
