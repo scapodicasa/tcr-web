@@ -2,6 +2,12 @@ title: "Gallery"
 style: "style2 medium lightbox onscroll-fade-in"
 content: Bites from our best moments
 pictures:
+  - title: "Claddagh Fest 2024"
+    content: "Pic by Fotografia Arona."
+    image: "images/gallery/fulls/claddagh_01.jpg"
+    thumb: "images/gallery/thumbs/claddagh_01.jpg"
+    button: "Details"
+  
   - title: "Montaud Festival 2024"
     content: "Pic by Simone Candeo."
     image: "images/gallery/fulls/montaud_01.jpeg"
@@ -13,4 +19,3 @@ pictures:
     image: "images/gallery/fulls/montaud_02.jpeg"
     thumb: "images/gallery/thumbs/montaud_02.jpeg"
     button: "Details"
-    
